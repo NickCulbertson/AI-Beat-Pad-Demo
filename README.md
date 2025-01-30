@@ -1,4 +1,4 @@
-# AI-Beat-Pad-Demo
+# AI Beat Pad Demo (DeepSeek vs. ChatGPT)
 
 (Click the image to watch "How iOS Audio Apps Are Made | Building a Beat Pad AUv3 with AudioKit")
 
