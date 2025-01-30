@@ -1,4 +1,4 @@
-# AI Beat Pad Demo (DeepSeek vs. ChatGPT)
+# AI Beat Pad Demo
 
 (Click the image to watch "DeepSeek vs. ChatGPT | A Real AI Coding Challenge for Music Apps")
 
